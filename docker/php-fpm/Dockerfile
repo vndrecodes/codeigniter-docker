@@ -10,4 +10,4 @@ COPY ./run.sh /root/
 
 RUN chmod 0755 /root/run.sh
 
-WORKDIR /var/www/html
+WORKDIR /var/www/
